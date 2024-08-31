@@ -1,0 +1,15 @@
+{
+  "name": "hashing",
+  "version": "1.0.0",
+  "main": "sha256.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "user",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.5.1",
+    "crypto-js": "^4.2.0"
+  }
+}
